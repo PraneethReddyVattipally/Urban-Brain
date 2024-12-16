@@ -9,6 +9,7 @@ This repository contains the code and documentation for a Generative AI Retrieva
 **Project Structure**
 
 **Problem Definition**
+
 Generative AI Retrieval-Augmented Generation (RAG) chatbots represent a significant advancement in the field of artificial intelligence. By combining the strengths of generative models and retrieval-based systems, RAG chatbots provide accurate, timely, and contextually relevant responses to user queries. This project addresses challenges such as information accessibility, timely updates, and efficient query handling for city government services.
 
 **Datasets**
